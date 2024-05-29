@@ -25,6 +25,7 @@ To start your dApp in development mode run
 ```bash
 pnpm dev
 ```
+![alt text](image.png)
 
 ## Building
 
