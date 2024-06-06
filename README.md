@@ -4,5 +4,6 @@
 
 代码效果  
 ![alt text](Counter/image.png)
+
 ## [Plinko](plinko)
 这是[sui官方示例的一个例子](https://docs.sui.io/guides/developer/app-examples/plinko)，Plinko游戏,玩家将 Plinko 球扔到一个钉板上，它们随机落入代表不同乘数的槽中,以获得不同数量的sui。这里只分享合约部分。
