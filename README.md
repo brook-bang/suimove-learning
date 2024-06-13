@@ -13,3 +13,6 @@
 
 ## [Satoshi_flip](satoshi_flip)
 这是[sui官方示例的一个例子](https://docs.sui.io/guides/developer/app-examples/coin-flip),Satoshi Coin Flip 是一个 dApp，它利用可验证随机函数（VRF）在 Sui 区块链上创建公平的硬币游戏。用户（人类）与庄家（模块）进行游戏，并对正面或反面下注。然后，用户要么收到双倍的赌注，要么什么也得不到，具体取决于游戏的结果
+
+## [oracle](oracle)
+这是[sui官方示例的一个例子](https://docs.sui.io/guides/developer/app-examples/weather-oracle),这是一个天气预报的智能合约，该合约包括添加城市天气，移除城市，更改城市天气情况，将城市天气数据做成NFT的功能
