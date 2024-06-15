@@ -19,3 +19,6 @@
 
 ## [reviews_rating](reviews_rating)
 这是[sui官方示例的一个例子](https://docs.sui.io/guides/developer/app-examples/reviews-rating),这是一个评论平台，与传统的评论评级平台不一样的是，传统的评论评级平台通常不会公开用于评级评论的算法，而本示例则不同，它使用的算法会在链上公布，供所有人查看和验证。在穗上计算的气体成本很低，因此在链上提交、评分和订购所有评论在经济上是可行的。
+
+## [escrow](escrow)
+这是[sui官方示例的一个例子](https://docs.sui.io/guides/developer/app-examples/trustless-swap),无需信任的原子交易平台，该代码提供了一种强大而安全的方式，可以在去中心化系统中执行对象的原子交换，而无需受信任的第三方。它使用共享对象和一系列检查来确保仅在满足所有条件时才会发生交换。
