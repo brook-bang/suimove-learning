@@ -22,3 +22,6 @@
 
 ## [escrow](escrow)
 这是[sui官方示例的一个例子](https://docs.sui.io/guides/developer/app-examples/trustless-swap),无需信任的原子交易平台，该代码提供了一种强大而安全的方式，可以在去中心化系统中执行对象的原子交换，而无需受信任的第三方。它使用共享对象和一系列检查来确保仅在满足所有条件时才会发生交换。
+
+## [trusted_swap](trusted_swap)
+这是[sui官方github库中的一个例子](https://github.com/MystenLabs/sui/blob/main/examples/move/trusted_swap/sources/example.move),通过第三方执行两个对象交换的一个简单的例子。
