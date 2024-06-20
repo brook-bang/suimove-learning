@@ -25,3 +25,6 @@
 
 ## [trusted_swap](trusted_swap)
 这是[sui官方github库中的一个例子](https://github.com/MystenLabs/sui/blob/main/examples/move/trusted_swap/sources/example.move),通过第三方执行两个对象交换的一个简单的例子。
+
+## [transfer-to-object](transfer-to-object)
+这是[sui官方github库中的一个例子](https://github.com/MystenLabs/sui/tree/main/examples/move/transfer-to-object),示例为实现收银机的各种方法，common为通用付款方法，为其他付款方法所调用。owned_no_tto是转移到账户地址付款实现收银。shared_no_tto创建共享对象“收银机”，通过共享对象收银。shared_with_tto结合以上二例转移到共享对象进行收银。
