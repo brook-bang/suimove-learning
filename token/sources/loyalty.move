@@ -58,6 +58,4 @@ module token::loyalty {
         token::confirm_with_treasury_cap(cap,req,ctx);
     }
 
-    
-
 }
