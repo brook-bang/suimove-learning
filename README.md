@@ -31,3 +31,6 @@
 
 ## [token](token)
 这是[sui官方github库中的一个例子](https://github.com/MystenLabs/sui/tree/main/examples/move/token),该实例为各种代币的例子：[咖啡代币买四送一](token\sources\coffee.move)，[宝石代币购买宝剑](token\sources\gems.move),[忠诚代币购买礼物](token\sources\loyalty.move),[受监管代币](token\sources\regulated_token.move),[普通代币](token\sources\simple_token.move)
+
+## [random](random)
+这是[sui官方github库中的一个例子](https://github.com/MystenLabs/sui/tree/main/examples/move/random),该实例为运用random随机数的三个例子，[抽奖](random\raffles)。[随机nft](random\random_nft):领取一个空投NFT，可以随机转换为不同的金属NFT。[老虎机](random\slot_machine)，随机数赌局游戏，有49%概率赢sui，51%的概率输sui
