@@ -37,3 +37,6 @@
 
 ## [object_bound](object_bound)
 这是[sui官方github库中的一个例子](https://github.com/MystenLabs/sui/tree/main/examples/move/object_bound),对象绑定，将对象存储在另一个对象上，当需要使用该对象时，要从借用该对象使用。
+
+## [testnet_nft](testnet_nft)
+这是[sui官方github库中的一个例子](https://github.com/MystenLabs/sui/tree/main/examples/move/nft),一个简单的nft，只有名字、描述、url。可转让，可更改描述，可删除的合约。
