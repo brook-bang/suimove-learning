@@ -34,3 +34,6 @@
 
 ## [random](random)
 这是[sui官方github库中的一个例子](https://github.com/MystenLabs/sui/tree/main/examples/move/random),该实例为运用random随机数的三个例子，[抽奖](random\raffles)。[随机nft](random\random_nft):领取一个空投NFT，可以随机转换为不同的金属NFT。[老虎机](random\slot_machine)，随机数赌局游戏，有49%概率赢sui，51%的概率输sui
+
+## [object_bound](object_bound)
+这是[sui官方github库中的一个例子](https://github.com/MystenLabs/sui/tree/main/examples/move/object_bound),对象绑定，将对象存储在另一个对象上，当需要使用该对象时，要从借用该对象使用。
