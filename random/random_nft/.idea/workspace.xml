@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d21991f9-5571-4012-9819-9e29a8cfe00f" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/../../transfer-to-object/shared_with_tto/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../transfer-to-object/shared_with_tto/readme.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MoveProjectSettingsService_Sui">
+    <option name="suiPath" value="F:\sui_binaries\sui.exe" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2iUyBVQ5ndAzwqVgOscI56pQTbN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "F:/sui_project/602/suimove-learning/object_bound"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Build Project" type="SuiCommandConfiguration">
+      <option name="command" value="move build" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="SuiCommandConfiguration">
+      <option name="command" value="" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="d21991f9-5571-4012-9819-9e29a8cfe00f" name="更改" comment="" />
+      <created>1719559320383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719559320383</updated>
+    </task>
+    <servers />
+  </component>
+</project>
