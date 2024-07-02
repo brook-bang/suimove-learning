@@ -41,6 +41,8 @@
 ## [testnet_nft](testnet_nft)
 这是[sui官方github库中的一个例子](https://github.com/MystenLabs/sui/tree/main/examples/move/nft),一个简单的nft，只有名字、描述、url。可转让，可更改描述，可删除的合约。
 
-
 ## [hero](hero)
 这是[sui官方github库中的一个例子](https://github.com/MystenLabs/sui/tree/main/examples/move/hero),一个简单的游戏，英雄拿宝剑杀野猪，
+
+## [flash_lender](flash_lender)
+这是[sui官方github库中的一个例子](https://github.com/MystenLabs/sui/tree/main/examples/move/flash_lender),一个简单的闪电贷合约示例
